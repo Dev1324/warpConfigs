@@ -6,11 +6,3 @@
 
 warp://162.159.192.149:928?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#1
 warp://[2606:4700:d0::21e0:ccde:ca89:b756]:955?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#2
-warp://162.159.192.149:928?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#3
-warp://[2606:4700:d0::21e0:ccde:ca89:b756]:955?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#4
-warp://162.159.192.64:955?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#5
-warp://[2606:4700:d0::2868:d50f:4d62:c6fe]:3854?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#6
-warp://162.159.192.64:955?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#7
-warp://[2606:4700:d0::2868:d50f:4d62:c6fe]:3854?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#8
-warp://188.114.98.1:1010?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#9
-warp://[2606:4700:d0::2f8f:748c:c723:7dad]:3854?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#10
